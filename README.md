@@ -1,6 +1,7 @@
 # Week 1 - Git Practice
 
-This repository contains my Software Engineering tasks.
+This repository contains my Software Engineering and GitHub training tasks.
+
 ## What I learned
 - Git basics
 - Branching and merging
